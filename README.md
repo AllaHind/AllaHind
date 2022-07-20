@@ -9,12 +9,13 @@ I am an IT engineer student <img src="https://media.giphy.com/media/WUlplcMpOCEm
 :zap: In my free time, I learn new programming languages and frameworks.
  
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="100" height="100"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="100" height="100"/>&nbsp;
